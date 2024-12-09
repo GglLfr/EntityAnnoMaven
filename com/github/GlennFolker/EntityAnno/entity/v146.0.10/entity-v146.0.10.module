@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.GlennFolker.EntityAnno",
+    "module": "entity",
+    "version": "v146.0.10",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.11.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "entity-v146.0.10.jar",
+          "url": "entity-v146.0.10.jar",
+          "size": 67747,
+          "sha512": "5e85c174294ffe53724ba6e9d6755f3c3564703592e1cba3852bf5a3b607043ac7680b730f0af8a68162329624a5c9fb9fbba5d3f535fa4f6eea1f46d138446d",
+          "sha256": "623ceee0cb83e4049736f07870702823b5375d67f4ee010882cc43fc6bcedc79",
+          "sha1": "1ab4e542a4676fec0cfaf48deb7f949fda4fd13a",
+          "md5": "00474efdb464c51ff429daa8a8bd2968"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.github.Anuken.Arc",
+          "module": "arc-core",
+          "version": {
+            "requires": "v146"
+          }
+        },
+        {
+          "group": "com.github.Anuken.Mindustry",
+          "module": "core",
+          "version": {
+            "requires": "v146"
+          }
+        },
+        {
+          "group": "com.squareup",
+          "module": "javapoet",
+          "version": {
+            "requires": "1.13.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "entity-v146.0.10.jar",
+          "url": "entity-v146.0.10.jar",
+          "size": 67747,
+          "sha512": "5e85c174294ffe53724ba6e9d6755f3c3564703592e1cba3852bf5a3b607043ac7680b730f0af8a68162329624a5c9fb9fbba5d3f535fa4f6eea1f46d138446d",
+          "sha256": "623ceee0cb83e4049736f07870702823b5375d67f4ee010882cc43fc6bcedc79",
+          "sha1": "1ab4e542a4676fec0cfaf48deb7f949fda4fd13a",
+          "md5": "00474efdb464c51ff429daa8a8bd2968"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "entity-v146.0.10-javadoc.jar",
+          "url": "entity-v146.0.10-javadoc.jar",
+          "size": 164208,
+          "sha512": "ac75d209e85663acac1abd8ab9805db3732f1abcec3f34e85d270ae268771610ad56aee3892e5e309740f41c1d0ccab1e40da26a1ce4fd4a345418dfd5d7dd73",
+          "sha256": "a7ab428bb2c3ff32de1a0220c7a875c5554e319a4afd810a6da916b0c37dcc4f",
+          "sha1": "87c98440c07b5589f3911b2c77aa649e7aecbe01",
+          "md5": "ddba402d20d80edc5571a84a9a291989"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "entity-v146.0.10-sources.jar",
+          "url": "entity-v146.0.10-sources.jar",
+          "size": 22616,
+          "sha512": "c9096bda2490b99546e53237509138b445254935d6e5db52c53c5b47435d06127d1f5bd5c7b9e5ef61471391dadc60c3e6765339d51202daf42a40884cc977fa",
+          "sha256": "3c8acd832a561914ed455a45c4b785bd368ac0ca472887de731e6b776a799194",
+          "sha1": "1da101be9b3ce186705ec6297325483072557b9b",
+          "md5": "e6901fa712829adf44e3047c2473512f"
+        }
+      ]
+    }
+  ]
+}

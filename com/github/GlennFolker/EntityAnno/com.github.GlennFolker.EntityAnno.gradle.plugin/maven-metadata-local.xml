@@ -3,11 +3,11 @@
   <groupId>com.github.GlennFolker.EntityAnno</groupId>
   <artifactId>com.github.GlennFolker.EntityAnno.gradle.plugin</artifactId>
   <versioning>
-    <latest>7131b57842</latest>
-    <release>7131b57842</release>
+    <latest>v146.0.10</latest>
+    <release>v146.0.10</release>
     <versions>
-      <version>7131b57842</version>
+      <version>v146.0.10</version>
     </versions>
-    <lastUpdated>20241209110037</lastUpdated>
+    <lastUpdated>20241209110106</lastUpdated>
   </versioning>
 </metadata>
