@@ -3,7 +3,7 @@
   "component": {
     "group": "com.github.GlennFolker",
     "module": "EntityAnno",
-    "version": "3c4deb3ec2",
+    "version": "284472e6f1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "EntityAnno-3c4deb3ec2.jar",
-          "url": "EntityAnno-3c4deb3ec2.jar",
+          "name": "EntityAnno-284472e6f1.jar",
+          "url": "EntityAnno-284472e6f1.jar",
           "size": 8362,
-          "sha512": "f9d7cf37e45ed86117a1e0a0337ff281e4d3e51a84f66f9f1dbc5ed0b53d4d4f4e175a7110c24b149d2f93a6c8a1e71dfcc70107c188446b4591918b9001ccbf",
-          "sha256": "7059bf55b9bb95ee82ea55dc7a186688d5c2fd4901a6ec1e3d05f7bebfe53ea7",
-          "sha1": "1a6374f3c8f0812392ad11a08e219db96f877559",
-          "md5": "16e9d7d15a8f4b548bae20c0ce26f14f"
+          "sha512": "2dfe42ad635af3ce37119bd60d473f3a5eb40a18c310c301f4c612d87a1bd6a7476b217a632469479ce20e08a823e585915240b42a3b0feeb461bb0bdaedefec",
+          "sha256": "e26e79e73bc72d3a0f7d50f770af44a2040f7cd4924c62861b473e7770a2e323",
+          "sha1": "6f0b959f99c34e5846d6ccc2eec3789f80fab76b",
+          "md5": "85f4b231ba3a983a6906df897d2f6366"
         }
       ]
     },
@@ -69,13 +69,13 @@
       ],
       "files": [
         {
-          "name": "EntityAnno-3c4deb3ec2.jar",
-          "url": "EntityAnno-3c4deb3ec2.jar",
+          "name": "EntityAnno-284472e6f1.jar",
+          "url": "EntityAnno-284472e6f1.jar",
           "size": 8362,
-          "sha512": "f9d7cf37e45ed86117a1e0a0337ff281e4d3e51a84f66f9f1dbc5ed0b53d4d4f4e175a7110c24b149d2f93a6c8a1e71dfcc70107c188446b4591918b9001ccbf",
-          "sha256": "7059bf55b9bb95ee82ea55dc7a186688d5c2fd4901a6ec1e3d05f7bebfe53ea7",
-          "sha1": "1a6374f3c8f0812392ad11a08e219db96f877559",
-          "md5": "16e9d7d15a8f4b548bae20c0ce26f14f"
+          "sha512": "2dfe42ad635af3ce37119bd60d473f3a5eb40a18c310c301f4c612d87a1bd6a7476b217a632469479ce20e08a823e585915240b42a3b0feeb461bb0bdaedefec",
+          "sha256": "e26e79e73bc72d3a0f7d50f770af44a2040f7cd4924c62861b473e7770a2e323",
+          "sha1": "6f0b959f99c34e5846d6ccc2eec3789f80fab76b",
+          "md5": "85f4b231ba3a983a6906df897d2f6366"
         }
       ]
     },
@@ -89,13 +89,13 @@
       },
       "files": [
         {
-          "name": "EntityAnno-3c4deb3ec2-javadoc.jar",
-          "url": "EntityAnno-3c4deb3ec2-javadoc.jar",
-          "size": 85097,
-          "sha512": "5c37fa6fa9f6d6157a4becfb7259366a21fa764ddd85961d7ce4bbf7f5a258b7454240674922d18e782e355c667d9d7d8e64b41df87e396b08bcce7209313f1c",
-          "sha256": "5c23889bcbee6a807414a51254ffe89712db31e2ae94ff7750b175a380cbb717",
-          "sha1": "146a2bc62cfa0f218d3cb4c57d0039e897884951",
-          "md5": "399ac7312a716947a2caa3efad073ead"
+          "name": "EntityAnno-284472e6f1-javadoc.jar",
+          "url": "EntityAnno-284472e6f1-javadoc.jar",
+          "size": 85122,
+          "sha512": "f527ba4682bd40d2099f8fefdbe04105de9b468b163c9b14d9fbae68c16b14ee9ed0d3805aa5d2152c934a42a3b6e90369686ef28f5af7305fcc04faad1a28cc",
+          "sha256": "9e01696239a15953a13926f318cc731c6e84f332d5e63b7c64c64945b161030c",
+          "sha1": "a7f0934e1750bbaaf405ce405b938091ea8db155",
+          "md5": "8f6f5491206442d5ccbfcb546e974bae"
         }
       ]
     },
@@ -109,13 +109,13 @@
       },
       "files": [
         {
-          "name": "EntityAnno-3c4deb3ec2-sources.jar",
-          "url": "EntityAnno-3c4deb3ec2-sources.jar",
+          "name": "EntityAnno-284472e6f1-sources.jar",
+          "url": "EntityAnno-284472e6f1-sources.jar",
           "size": 3492,
-          "sha512": "235917d05e837af743cd9109b9719a4eef4c5024c30fd09b8ccce217578adc3f25e6e9b72fac258f0e48f84176c4f6bd05f6e88437d44ca26b868a5156f4bd1e",
-          "sha256": "a74cb8a8135d3a04553d73e4ed8ff6f48adb7d34869426caaa11c83d09b32dc7",
-          "sha1": "4d8e31d95188239abb7d3e77012fb9f312ade977",
-          "md5": "5814db57a087489e954edcddf313c07f"
+          "sha512": "343413c78d15d4c023ce9ea2ee20d4754cf01a514b03ed10ad37b5f184d05baf3a88e591b83104e7eb29308caef1f5ecade7b3df1d5d62884e83f9a2cec6cfa7",
+          "sha256": "89496b68ae21bfe0564e960b07f2d50361373a79888749740372e89756b1be67",
+          "sha1": "a96334a277c88e88a225d687e35a3583d244e01f",
+          "md5": "d4557d97d1a37594514073c9b63b1cb5"
         }
       ]
     }

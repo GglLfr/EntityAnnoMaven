@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.GlennFolker.EntityAnno</groupId>
   <artifactId>com.github.GlennFolker.EntityAnno.gradle.plugin</artifactId>
-  <version>3c4deb3ec2</version>
+  <version>284472e6f1</version>
   <packaging>pom</packaging>
   <name>EntityAnno</name>
   <description>Utility tools for generating Mindustry custom entity component classes.</description>
@@ -24,7 +24,7 @@
     <dependency>
       <groupId>com.github.GlennFolker</groupId>
       <artifactId>EntityAnno</artifactId>
-      <version>3c4deb3ec2</version>
+      <version>284472e6f1</version>
     </dependency>
   </dependencies>
 </project>
