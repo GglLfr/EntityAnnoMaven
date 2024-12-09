@@ -7,26 +7,29 @@
   <!-- that they should prefer consuming it instead. -->
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.github.GlennFolker</groupId>
-  <artifactId>EntityAnno</artifactId>
-  <version>a01f25c367</version>
+  <groupId>com.github.GlennFolker.EntityAnno</groupId>
+  <artifactId>downgrader</artifactId>
+  <version>3c4deb3ec2</version>
+  <name>EntityAnno Syntax Downgrader</name>
+  <description>Java 9+ syntax availability in Java 8, which is necessary for Mindustry mods.</description>
+  <url>https://github.com/GlennFolker/EntityAnno</url>
+  <inceptionYear>2024</inceptionYear>
+  <licenses>
+    <license>
+      <name>GPL-3.0-or-later</name>
+      <url>https://www.gnu.org/licenses/gpl-3.0.en.html</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <issueManagement>
+    <system>GitHub Issue Tracker</system>
+    <url>https://github.com/GlennFolker/EntityAnno/issues</url>
+  </issueManagement>
   <dependencies>
     <dependency>
       <groupId>com.github.Anuken.Arc</groupId>
       <artifactId>arc-core</artifactId>
       <version>v146</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jetbrains.kotlin.jvm</groupId>
-      <artifactId>org.jetbrains.kotlin.jvm.gradle.plugin</artifactId>
-      <version>2.1.0</version>
-      <scope>runtime</scope>
-    </dependency>
-    <dependency>
-      <groupId>org.jetbrains.kotlin.kapt</groupId>
-      <artifactId>org.jetbrains.kotlin.kapt.gradle.plugin</artifactId>
-      <version>2.1.0</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>

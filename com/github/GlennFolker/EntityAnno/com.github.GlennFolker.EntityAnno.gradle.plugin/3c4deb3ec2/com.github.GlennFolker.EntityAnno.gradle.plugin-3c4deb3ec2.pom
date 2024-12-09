@@ -3,14 +3,28 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.github.GlennFolker.EntityAnno</groupId>
   <artifactId>com.github.GlennFolker.EntityAnno.gradle.plugin</artifactId>
-  <version>a01f25c367</version>
+  <version>3c4deb3ec2</version>
   <packaging>pom</packaging>
   <name>EntityAnno</name>
+  <description>Utility tools for generating Mindustry custom entity component classes.</description>
+  <url>https://github.com/GlennFolker/EntityAnno</url>
+  <inceptionYear>2024</inceptionYear>
+  <licenses>
+    <license>
+      <name>GPL-3.0-or-later</name>
+      <url>https://www.gnu.org/licenses/gpl-3.0.en.html</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
+  <issueManagement>
+    <system>GitHub Issue Tracker</system>
+    <url>https://github.com/GlennFolker/EntityAnno/issues</url>
+  </issueManagement>
   <dependencies>
     <dependency>
       <groupId>com.github.GlennFolker</groupId>
       <artifactId>EntityAnno</artifactId>
-      <version>a01f25c367</version>
+      <version>3c4deb3ec2</version>
     </dependency>
   </dependencies>
 </project>

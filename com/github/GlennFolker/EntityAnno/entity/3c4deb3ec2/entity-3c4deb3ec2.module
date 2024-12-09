@@ -3,7 +3,7 @@
   "component": {
     "group": "com.github.GlennFolker.EntityAnno",
     "module": "entity",
-    "version": "a01f25c367",
+    "version": "3c4deb3ec2",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "entity-a01f25c367.jar",
-          "url": "entity-a01f25c367.jar",
+          "name": "entity-3c4deb3ec2.jar",
+          "url": "entity-3c4deb3ec2.jar",
           "size": 67747,
-          "sha512": "6ca37c248b94c5f2384a4461e465822f51129a3314bdaa3e1c97bf4174581fe6284447c80fe4f3d6a0be0b5c18d7120ffc872309b8b28d517f16a80dc5847145",
-          "sha256": "045231f58a2bd0e9b7563dbcf1ff7bbc8f31946bf04ee6741ea36c6c459d9d64",
-          "sha1": "2e1314c1c280daf610d215abb09ab2b51c9ff138",
-          "md5": "2754c525b8ea3828bb0c93ca7ad96474"
+          "sha512": "69361ccbe73e63bbde52825a295be164cf359a495443c955c41d72e3b4959efbc10f7d0dfeb9c4ac4f6ee936ff7dcb66c03b4d87cb2d8ce6ce1b58ca035dd00f",
+          "sha256": "ed6dbbb9c82fca9f2a84c2d2af07c022bbdd6d77aed7f311ef93e339ff2778c8",
+          "sha1": "f576aa5490b54979c50acd185b390f729052f1a0",
+          "md5": "7e4034e570237c73ba56e24c89078efa"
         }
       ]
     },
@@ -69,13 +69,13 @@
       ],
       "files": [
         {
-          "name": "entity-a01f25c367.jar",
-          "url": "entity-a01f25c367.jar",
+          "name": "entity-3c4deb3ec2.jar",
+          "url": "entity-3c4deb3ec2.jar",
           "size": 67747,
-          "sha512": "6ca37c248b94c5f2384a4461e465822f51129a3314bdaa3e1c97bf4174581fe6284447c80fe4f3d6a0be0b5c18d7120ffc872309b8b28d517f16a80dc5847145",
-          "sha256": "045231f58a2bd0e9b7563dbcf1ff7bbc8f31946bf04ee6741ea36c6c459d9d64",
-          "sha1": "2e1314c1c280daf610d215abb09ab2b51c9ff138",
-          "md5": "2754c525b8ea3828bb0c93ca7ad96474"
+          "sha512": "69361ccbe73e63bbde52825a295be164cf359a495443c955c41d72e3b4959efbc10f7d0dfeb9c4ac4f6ee936ff7dcb66c03b4d87cb2d8ce6ce1b58ca035dd00f",
+          "sha256": "ed6dbbb9c82fca9f2a84c2d2af07c022bbdd6d77aed7f311ef93e339ff2778c8",
+          "sha1": "f576aa5490b54979c50acd185b390f729052f1a0",
+          "md5": "7e4034e570237c73ba56e24c89078efa"
         }
       ]
     },
@@ -89,13 +89,13 @@
       },
       "files": [
         {
-          "name": "entity-a01f25c367-javadoc.jar",
-          "url": "entity-a01f25c367-javadoc.jar",
-          "size": 164265,
-          "sha512": "cc955501e14a5643982e62349c67800c6952310b98411e22bb2fba99c196d3158502593e2f6e494db303a4cd35d31fb5cdc5de1f03a757dff7e78f8564fa1a7e",
-          "sha256": "45f59681d247636b4a45952696ef50686bfb1c4c65c481d6582ac8f599af87a5",
-          "sha1": "9495b129594337c61a2ab88ca0bf9618a678fccc",
-          "md5": "304f02d0bbf385282a72b262ca3840fd"
+          "name": "entity-3c4deb3ec2-javadoc.jar",
+          "url": "entity-3c4deb3ec2-javadoc.jar",
+          "size": 164169,
+          "sha512": "0d2409f178b0ac7fecea4e7f16e728feb4e9c4c321bc7395907d5eb3404f1e2d7615bcc28baece7390874919bb1341800bf797593877fa7f47087d3a2e680dae",
+          "sha256": "09322bcc032279b63c7a5829a4a33f651fa25eefb46f6e0aa5063c0797571266",
+          "sha1": "bc7cffe76d7cc1812b31f391ac64f626128cb773",
+          "md5": "605ca4c443453d47db1fd728c5d055b7"
         }
       ]
     },
@@ -109,13 +109,13 @@
       },
       "files": [
         {
-          "name": "entity-a01f25c367-sources.jar",
-          "url": "entity-a01f25c367-sources.jar",
+          "name": "entity-3c4deb3ec2-sources.jar",
+          "url": "entity-3c4deb3ec2-sources.jar",
           "size": 22616,
-          "sha512": "77d60a93b412c0f1cff37f029cdb8a3ef173c77477ec94c720e21c46bb023643c809fd00cc7359a4886d62a92c381064cdc8b03278a44449e450e9a8a66b1d9f",
-          "sha256": "4b52f96b4e6fa21c8d1f7600c84cd2c9abe059e699c7dc35361e3d6636ddccb1",
-          "sha1": "8fbcec5002b70ca15f851440f1b79483e97701c7",
-          "md5": "b4f7c54ac9f59cb852de0de54e71a5ab"
+          "sha512": "b14560db1fc32073ddeffc26a0a7319dc580eb98e86f3e1e011ac0cbf243ebca627a47b69b1c027abbc57c35d02c9d4986860166beea08cdfa08821dc85f7e9b",
+          "sha256": "628cd8454d729f4fcd3e563c0aeba6edc7acaa6dd86f6f689089d5181364646b",
+          "sha1": "3268bea20f2c852d15e7b4f13a4bc1895acbd7a9",
+          "md5": "278b13efce31f6fb3e22370cb8163b52"
         }
       ]
     }
