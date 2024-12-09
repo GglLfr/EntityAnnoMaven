@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.GlennFolker.EntityAnno",
+    "module": "entity",
+    "version": "7131b57842",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.11.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "entity-7131b57842.jar",
+          "url": "entity-7131b57842.jar",
+          "size": 67747,
+          "sha512": "76dbd3b58b419c731e10d9c0f8d7c57da293311e578bc3abbbfaf7c4fde0eb200b7847eff1c93ac8661dd925ae99651184832bb0b26bc7b8d899b893e3d95b0c",
+          "sha256": "f4c8d50dddc22e04643491e9672125eda10802bf7c03bbd038e88a914addfe44",
+          "sha1": "b758f8ce00608d9f7e5cec883596b68f5084cf45",
+          "md5": "9c763c69e22c363a788abfa94d82265c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.github.Anuken.Arc",
+          "module": "arc-core",
+          "version": {
+            "requires": "v146"
+          }
+        },
+        {
+          "group": "com.github.Anuken.Mindustry",
+          "module": "core",
+          "version": {
+            "requires": "v146"
+          }
+        },
+        {
+          "group": "com.squareup",
+          "module": "javapoet",
+          "version": {
+            "requires": "1.13.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "entity-7131b57842.jar",
+          "url": "entity-7131b57842.jar",
+          "size": 67747,
+          "sha512": "76dbd3b58b419c731e10d9c0f8d7c57da293311e578bc3abbbfaf7c4fde0eb200b7847eff1c93ac8661dd925ae99651184832bb0b26bc7b8d899b893e3d95b0c",
+          "sha256": "f4c8d50dddc22e04643491e9672125eda10802bf7c03bbd038e88a914addfe44",
+          "sha1": "b758f8ce00608d9f7e5cec883596b68f5084cf45",
+          "md5": "9c763c69e22c363a788abfa94d82265c"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "entity-7131b57842-javadoc.jar",
+          "url": "entity-7131b57842-javadoc.jar",
+          "size": 164274,
+          "sha512": "582a903f2d7ee842e6af642f586400f38517af6c0528b16a1cc7ef01a89694dde3b853ddaa4bce968454cd4cae50d079c5d32186686071111b002e3cc0bb2682",
+          "sha256": "0cfa5633a24e191d89b3196aba2f43f24ecbff167e95ca661081a57045bddd32",
+          "sha1": "c875d89548f99ac38869fd4c844af9d8ad2238a1",
+          "md5": "cbe439cc5fd1347703ba54b523b3ad5e"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "entity-7131b57842-sources.jar",
+          "url": "entity-7131b57842-sources.jar",
+          "size": 22616,
+          "sha512": "d4d96d8935f45f42eb7aa71632f775d2bef6d02e2c1ea9273499e3e1172c0e15d9cb070ccd8816008d13854d0160c24e31d3e8cad799695d6ee8c37c97fdf05c",
+          "sha256": "956f406096c4262a87bf9c8f7187455d08337a9c7d97fa69dc56e246f26180cd",
+          "sha1": "be686805c5d6ec5ca6add381b9800b86abef03a0",
+          "md5": "fe6de4ba7153a40221dad4ec9ab1e285"
+        }
+      ]
+    }
+  ]
+}
