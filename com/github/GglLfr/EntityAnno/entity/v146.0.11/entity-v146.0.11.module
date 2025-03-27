@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.GglLfr.EntityAnno",
+    "module": "entity",
+    "version": "v146.0.11",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.11.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "entity-v146.0.11.jar",
+          "url": "entity-v146.0.11.jar",
+          "size": 67747,
+          "sha512": "f25d7982d254d99550d43bada552ea3bb28fcce98a200e4015754f0ab6892111d26b5bb416167ba53d1dcc66357ad7c5d944d0b86d0ce46482c985c294fc00e7",
+          "sha256": "5368439f0551ced371af649fc29d6fefa32f07328cd66957af9279db964f4d6a",
+          "sha1": "cbc45b7d50d9cd5b11dfe843f0545115da927669",
+          "md5": "12865d191b6069cf68d2bf266a85f4c4"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.github.Anuken.Arc",
+          "module": "arc-core",
+          "version": {
+            "requires": "v146"
+          }
+        },
+        {
+          "group": "com.github.Anuken.Mindustry",
+          "module": "core",
+          "version": {
+            "requires": "v146"
+          }
+        },
+        {
+          "group": "com.squareup",
+          "module": "javapoet",
+          "version": {
+            "requires": "1.13.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "entity-v146.0.11.jar",
+          "url": "entity-v146.0.11.jar",
+          "size": 67747,
+          "sha512": "f25d7982d254d99550d43bada552ea3bb28fcce98a200e4015754f0ab6892111d26b5bb416167ba53d1dcc66357ad7c5d944d0b86d0ce46482c985c294fc00e7",
+          "sha256": "5368439f0551ced371af649fc29d6fefa32f07328cd66957af9279db964f4d6a",
+          "sha1": "cbc45b7d50d9cd5b11dfe843f0545115da927669",
+          "md5": "12865d191b6069cf68d2bf266a85f4c4"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "entity-v146.0.11-javadoc.jar",
+          "url": "entity-v146.0.11-javadoc.jar",
+          "size": 164196,
+          "sha512": "6db79207f53736c5e5eb84bbc7cf8b9f2ef9f9a737f61357c367e5018a7fcb1338311609cc68ad40f353a54d1227e5b90140e203c082d1050308e42981ad5436",
+          "sha256": "aa61f9acb05877310e07aaa046174b861fb63a6cd6e6f441210080bccd37809a",
+          "sha1": "15f9f9d6943f6bedcd3ff0449b691d37e1dc3056",
+          "md5": "19d94c1ac8824d0ee09e109961d8cac9"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "entity-v146.0.11-sources.jar",
+          "url": "entity-v146.0.11-sources.jar",
+          "size": 22616,
+          "sha512": "732ab42b6decefa6fbf2e11d740455ea53213e6b709b843a2435919589538d51fcf7b915ebf421961faf72cc80e7aa418e7ccc48af57d924c3807cc77d94f000",
+          "sha256": "57381116c9669ee4b186322c6808a525b583376e1d884c388a67a29e2a9b4f51",
+          "sha1": "fcc0585320e23e5332f1df76c191ef4983063134",
+          "md5": "02f89c60c922c07d100f447710a74041"
+        }
+      ]
+    }
+  ]
+}
