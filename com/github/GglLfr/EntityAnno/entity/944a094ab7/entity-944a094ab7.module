@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.GglLfr.EntityAnno",
+    "module": "entity",
+    "version": "944a094ab7",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.11.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "entity-944a094ab7.jar",
+          "url": "entity-944a094ab7.jar",
+          "size": 67747,
+          "sha512": "84c0d694e6ea94ec9f5fef42092048c813b1c34bfc0242c9af7e3ffa012b2ece3b3461849a1dba5b3d368f5b9d25e3705e78522be9f6d73bdd277ac5a330a09e",
+          "sha256": "b787c76574da7437e3097c2986f23cef259618bd4d2b1de5ac7826a0138a905a",
+          "sha1": "a251cafadaf21c81f4d06af25a557fec211f2be7",
+          "md5": "08e50dbc433894722db09158bc6eabe1"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.github.Anuken.Arc",
+          "module": "arc-core",
+          "version": {
+            "requires": "v146"
+          }
+        },
+        {
+          "group": "com.github.Anuken.Mindustry",
+          "module": "core",
+          "version": {
+            "requires": "v146"
+          }
+        },
+        {
+          "group": "com.squareup",
+          "module": "javapoet",
+          "version": {
+            "requires": "1.13.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "entity-944a094ab7.jar",
+          "url": "entity-944a094ab7.jar",
+          "size": 67747,
+          "sha512": "84c0d694e6ea94ec9f5fef42092048c813b1c34bfc0242c9af7e3ffa012b2ece3b3461849a1dba5b3d368f5b9d25e3705e78522be9f6d73bdd277ac5a330a09e",
+          "sha256": "b787c76574da7437e3097c2986f23cef259618bd4d2b1de5ac7826a0138a905a",
+          "sha1": "a251cafadaf21c81f4d06af25a557fec211f2be7",
+          "md5": "08e50dbc433894722db09158bc6eabe1"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "entity-944a094ab7-javadoc.jar",
+          "url": "entity-944a094ab7-javadoc.jar",
+          "size": 164255,
+          "sha512": "6c8aa48b29ea17da76cac45e2a7525b951f7befda8d10b95912064ef0c73ea232f77754467024d55e0b423f355efe1abf25fd3fb4fb5f5c1d898737f88cb315e",
+          "sha256": "0b2e2641d607c1a50a4df284530a9e62d70366ad7f379d0c252fa3485469bbe7",
+          "sha1": "ab20aba32b1d2d1e00a7ed10196ba9891dd99359",
+          "md5": "0bc0258cff9fe16f72df11d122554039"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "entity-944a094ab7-sources.jar",
+          "url": "entity-944a094ab7-sources.jar",
+          "size": 22616,
+          "sha512": "8e74fbd8d4d299f8bd9aa5ca8561b57d8032b528c2507a36c4c39d363094f8d73fd038736359b90f29dfebb8c9d9dfdf90a10c6786230fd6af44577cc1058cb2",
+          "sha256": "aca1ecc8f173dc962498b84de465e757cadc17804b03b8ad731d8e20fdbac647",
+          "sha1": "dd19b2c74690e8a688e7980afb039056df721532",
+          "md5": "c327e4da9e745a2cad274ad860f93f29"
+        }
+      ]
+    }
+  ]
+}
