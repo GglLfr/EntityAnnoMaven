@@ -1,0 +1,123 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.GglLfr.EntityAnno",
+    "module": "entity",
+    "version": "be30f61d13",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "entity-be30f61d13.jar",
+          "url": "entity-be30f61d13.jar",
+          "size": 67727,
+          "sha512": "84bd44fd691012a9d79e01433f905c6780d695619c9851ea665216ebb351f59e98d55c79baab8eb1de90194918bf31f8b96d9314dd69a3580d05319b5bde9e2a",
+          "sha256": "737713eb14542d7cd363f8df4e7f44131e39d763dd4660a378425a248933898b",
+          "sha1": "284a8b2d60e2db10216e646b619cb495f4b4498b",
+          "md5": "9d6826bee4646a5969fef3dfd1a43a88"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.github.Anuken.Arc",
+          "module": "arc-core",
+          "version": {
+            "requires": "v149"
+          }
+        },
+        {
+          "group": "com.github.Anuken.Mindustry",
+          "module": "core",
+          "version": {
+            "requires": "v149"
+          }
+        },
+        {
+          "group": "com.squareup",
+          "module": "javapoet",
+          "version": {
+            "requires": "1.13.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "entity-be30f61d13.jar",
+          "url": "entity-be30f61d13.jar",
+          "size": 67727,
+          "sha512": "84bd44fd691012a9d79e01433f905c6780d695619c9851ea665216ebb351f59e98d55c79baab8eb1de90194918bf31f8b96d9314dd69a3580d05319b5bde9e2a",
+          "sha256": "737713eb14542d7cd363f8df4e7f44131e39d763dd4660a378425a248933898b",
+          "sha1": "284a8b2d60e2db10216e646b619cb495f4b4498b",
+          "md5": "9d6826bee4646a5969fef3dfd1a43a88"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "entity-be30f61d13-javadoc.jar",
+          "url": "entity-be30f61d13-javadoc.jar",
+          "size": 164220,
+          "sha512": "7e29aac91987d0d108c12028f6eebeb5f7c67a8069913f39b191c0587ed281d922db2d410009ca9312457878ddf2c70f0c9e9bf2f73cbb40621428f6cd144152",
+          "sha256": "2b4601a9461aa50b4a5846dabad069909a8a48aadc687c698c9f66e49bf934ca",
+          "sha1": "901dd63f929680b97451c657ed3584c4f56e3442",
+          "md5": "c71b56be1045fdced8ab11bd2cf97250"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "entity-be30f61d13-sources.jar",
+          "url": "entity-be30f61d13-sources.jar",
+          "size": 22620,
+          "sha512": "4794b06ca4194c77f389627ffadcf4d2164f82dcece297eda045eac9a3c99dfb685ebc220ee6269eeb03819e3306fd3583421a43a9fc6df3a6cbb3c227566a04",
+          "sha256": "a277c68363ad54b59a80114d7cbebb94aad36e2196dfc2209397c69bb474c5fc",
+          "sha1": "523b70e21942de0839e4b896e16bb481f55a819e",
+          "md5": "3a36abd5bf1d2a5a2d8314201fb46194"
+        }
+      ]
+    }
+  ]
+}
