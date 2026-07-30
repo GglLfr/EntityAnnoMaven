@@ -1,0 +1,109 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.github.GglLfr.EntityAnno",
+    "module": "downgrader",
+    "version": "43d19e66ea",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "8.14"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "downgrader-43d19e66ea.jar",
+          "url": "downgrader-43d19e66ea.jar",
+          "size": 2692,
+          "sha512": "dd795f469c02d9b3cfc82f08128450bb42e10bff4b4c46405825e7839c1f777237715797412917ebef2cea2929d15f9eeb0b01e87f6f6b088df0658c1f0e7ba5",
+          "sha256": "d2cea7f941ba149e8f00ee2146b37a161633214f99b16ec160886761ea47a76a",
+          "sha1": "cb228cf038f7d48c144f8644aafc203eaadb108f",
+          "md5": "af8daf5913393b8b9a45486d1ef6a400"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 8,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "com.github.Anuken.Arc",
+          "module": "arc-core",
+          "version": {
+            "requires": "v158"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "downgrader-43d19e66ea.jar",
+          "url": "downgrader-43d19e66ea.jar",
+          "size": 2692,
+          "sha512": "dd795f469c02d9b3cfc82f08128450bb42e10bff4b4c46405825e7839c1f777237715797412917ebef2cea2929d15f9eeb0b01e87f6f6b088df0658c1f0e7ba5",
+          "sha256": "d2cea7f941ba149e8f00ee2146b37a161633214f99b16ec160886761ea47a76a",
+          "sha1": "cb228cf038f7d48c144f8644aafc203eaadb108f",
+          "md5": "af8daf5913393b8b9a45486d1ef6a400"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "downgrader-43d19e66ea-javadoc.jar",
+          "url": "downgrader-43d19e66ea-javadoc.jar",
+          "size": 80833,
+          "sha512": "ffe87e2ea4ef5aa7ba37aae42aa897c356aab03f11b50071aab29c9e961fc154106d0e1c3691fe240f000eff7b33228969f5b92c9fd20fd0e2916effcd9fde72",
+          "sha256": "347631a181c5663e1edae5c0022e9076bd9a05d436214a45a62356399fab33b8",
+          "sha1": "c8165a881aa9b0bffe90509ca27c87eaa364172a",
+          "md5": "470b4445de870607a4d4d0ed466a11ec"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "downgrader-43d19e66ea-sources.jar",
+          "url": "downgrader-43d19e66ea-sources.jar",
+          "size": 2103,
+          "sha512": "1ee1616cd24dda08ab7e662eb3d46fb29573a2187094b2f262ff73d70d2a30ad23d9c138ada29da10eb1cdf931a27c76cf42ac55a6b11bff2fb5f26e587fdffa",
+          "sha256": "4ef0c7fd23ca43c648367859f050bc51652d183cc843854f3ec3513e89927a15",
+          "sha1": "b3b88dd59dd1352b0aa98f41acc7256d7bbe45fb",
+          "md5": "0c478521334adaf1d94793975047bc13"
+        }
+      ]
+    }
+  ]
+}
